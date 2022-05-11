@@ -1,0 +1,18 @@
+opis przypadku użycia „rozmowa z konsultantem”:
+1. uczestniczący aktorzy
+• Uchodźca
+2. podstawowy ciąg zdarzeń
+• Użytkownik wpisuje swoje pytanie 
+• Użytkownik wybiera opcję rozmowy telefonicznej, lub przez komunikator tekstowy
+• Użytkownik rozmawia z konsultantem przez telefon, lub komunikator tesktowy
+3. alternatywne ciągi zdarzeń
+a) Jeśli pytanie użytkownika występuje w bazie Frequently Asked Questions
+• Jeśli podpowiedź wystarczy, kończymy prace programu
+• Jeśli podpowiedź nie wystarczy, użytkownik przekazywany jest do rozmowy z konsultantem
+4. zależności czasowe
+a) częstotliwość wykonania: ~5-10 razy dziennie
+b) przewidywane spiętrzenia: przy wprowadzeniu nowych opcji w programie
+c) typowy czas realizacji: ~10 min.
+d) maksymalny czas realizacji: nieokreślony
+5. wartości uzyskiwane przez aktorów po zakończeniu przypadku użycia
+• komunikat informujący o powodzeniu lub niepowodzeniu operacji
