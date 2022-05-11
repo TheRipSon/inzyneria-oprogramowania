@@ -1,0 +1,39 @@
+opis przypadku użycia "akceptacja rejestracji":
+
+1. uczestniczący aktorzy
+
+• Administrator
+
+2. podstawowy ciąg zdarzeń
+
+• System wyświetla formularz zawierający dane uchodźcy oraz pozwalający na zaakceptowanie rejestracji.
+• Administrator aakceptuje rezerwację.
+• System wyświetla liste zasiłków i benefitów na jakie chęć zadekralował uchodźca które administator może zaakceptować lub odrzucić, w tym:
+- Przyznanie zasiłku pieniężnego,
+- Wpis do urzędu pracy,
+- Przyznanie zakwaterowania, 
+- Przyznanie zniżek na domy kultury,
+- Przyznanie darmowej komunikacji miejskiej,
+• System wyświetla końcowy stan zaakceptowanej rejestracji i pyta administratora o potwierdzenie.
+• Administrator potwierdza decyzję.
+• System informuje o dokonanej operacji wyświetlając odpowiedni komunikat.
+• System wysyła wiadomość o decyzji do uchodźcy.
+
+3. alternatywne ciągi zdarzeń
+
+a) Administrator odrzuca rejestracje
+• System wyświetla formularz zawierający prośbe o podanie przyczyny odrzucenia wniosku.
+• Po napisaniu powodu administrator potwierdza odrzucenie wniosku.
+• System wysyła wiadomość o decyzji do uchodźcy.
+
+4. zależności czasowe
+
+a) częstotliwość wykonania: ~50-100 razy dziennie
+b) przewidywane spiętrzenia: okres migracyjny
+c) typowy czas realizacji: ~3 min.
+d) maksymalny czas realizacji: nieokreślony
+
+5. wartości uzyskiwane przez aktorów po zakończeniu przypadku użycia
+
+• komunikat informujący o wysłaniu decyzji lub niepowodzeniu akcji,
+• wpis w rejestrze rejestracji związany z zaakceptowaną rejestracją.
