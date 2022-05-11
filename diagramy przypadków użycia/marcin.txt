@@ -20,4 +20,4 @@ jak je poprawić),
 - maksymalny czas realizacji: nieokreślony'
 5. Wartości uzyskiwane przez aktorów po zakończeniu przypadku użycia:
 - komunikat o niepoprawności danych lub fałszywych danych,
-- wpis w rejstrze Uchodźców i wyświetlenie innych opcji systemu.
+- wpis w rejstrze Uchodźców i wyświetlenie możliwości rozmowy z konsultantem.
