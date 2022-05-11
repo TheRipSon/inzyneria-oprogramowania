@@ -1,0 +1,23 @@
+Opis przypadku użycia "Rejestracja w systemie":
+1. Uczestniczący aktorzy
+- Uchodźca
+2. Podstawowy ciąg zdarzeń:
+- System wyświetla formularz do złożenia rejestracji,
+- Uchodźca wprowadza niezbędne dane (np. imie, nazwisko, data urodzenia, status związku,adres zamieszkania
+numer telefonu),
+- System weryfikuje kompletność i poprawność danych,
+- System przypisuje identyfikator pozwalający na przemieszanie się po państwie
+w którym się rejestruje,
+- System wyświetla komunikat potwierdzający założenie konta Uchodźcy.
+3. Alternatywne ciągi zdarzeń:
+- System stwierdza błędy w rejestracji ( wyświetla się komunikat, w których miejscach są błędy z podpowiedzami
+jak je poprawić),
+- System stwierdza fałszywe dane ( wyświetla się komunikat, że dane są fałszywe)
+4. Zależności czasowe:
+- częstotliwość wykonania: 50-100
+- przewidywane spiętrzenia: sytuacja migracyjna
+- typowy czas realizacji: 2min
+- maksymalny czas realizacji: nieokreślony'
+5. Wartości uzyskiwane przez aktorów po zakończeniu przypadku użycia:
+- komunikat o niepoprawności danych lub fałszywych danych,
+- wpis w rejstrze Uchodźców i wyświetlenie innych opcji systemu.
