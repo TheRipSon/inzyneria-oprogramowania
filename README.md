@@ -1,5 +1,4 @@
 # inzyneria-oprogramowania
-
 Treść:
 W związku z aktualną sytuacją w wschodniej Europie, wielu ludzi szuka schronienia w 
 naszym państwie. Należy stworzyć system wspomagający przemieszczanie się i relokację 
@@ -34,6 +33,7 @@ Korzyści:
    • Łatwiejsza komunikacja między urzędami
    • Podniesienie komfortu życia imigrantów
    • lepszy odbiór Polski na arenie międzynarodowej
+
 
 
 diagramy czynnosci:
