@@ -18,8 +18,11 @@ Benefity za rejestrację w systemie:
   3. Zniżki na domy kultury
 
 Cele:
+
   Budowa systemu usprawniającego przyjmowania uchodźców.
+  
 Zakres:
+
   1. Przyjmowanie uchodźców
   2. Zapewnienie im pomocy materialnej
   3. Możliwość znalezienia stanowiska pracy
@@ -27,7 +30,9 @@ Zakres:
   5. Przydzielenie unikalnego identyfikatora
 
 Korzyści:
+
   a) Materialne
+  
    1. Redukcja kosztów administracyjnych
    2. Redukcja kosztów biurowych
    3. Redukcja kosztów logistycznych
