@@ -11,24 +11,28 @@ Każdemu uchodźcy przydzielane jest zakwaterowanie okresowe (domyślnie: 1msc) 
 tymczasowe. Jeśli dana osoba nie zadeklaruje chęci, nie otrzymuje zakwaterowania.
 Dodatkowo jeśli uchodźca jest dorosły dostaje możliwość wpisu do Urzędu Pracy w celu 
 ułatwienia znalezienia stanowiska pracy.
+
 Benefity za rejestrację w systemie: 
   1. Zasiłek 200 zł na osobę dorosłą +150zł na każde dziecko,
   2. Darmową komunikację miejska,
   3. Zniżki na domy kultury
+
 Cele:
-Budowa systemu usprawniającego przyjmowania uchodźców.
+  Budowa systemu usprawniającego przyjmowania uchodźców.
 Zakres:
   1. Przyjmowanie uchodźców
   2. Zapewnienie im pomocy materialnej
   3. Możliwość znalezienia stanowiska pracy
   4. Zapis danych osobowych uchodźcy do bazy
   5. Przydzielenie unikalnego identyfikatora
+
 Korzyści:
   a) Materialne
    1. Redukcja kosztów administracyjnych
    2. Redukcja kosztów biurowych
    3. Redukcja kosztów logistycznych
    4. Zwiększenie liczby legalnych pracowników(podatki)
+   
   b) Niematerialne
    1. Łatwy dostęp do wyników raportów i statystyk
    2. Łatwiejsza komunikacja między urzędami
