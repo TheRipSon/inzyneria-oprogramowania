@@ -1,4 +1,5 @@
 # inzyneria-oprogramowania
+
 Treść:
 W związku z aktualną sytuacją w wschodniej Europie, wielu ludzi szuka schronienia w 
 naszym państwie. Należy stworzyć system wspomagający przemieszczanie się i relokację 
@@ -11,28 +12,28 @@ tymczasowe. Jeśli dana osoba nie zadeklaruje chęci, nie otrzymuje zakwaterowan
 Dodatkowo jeśli uchodźca jest dorosły dostaje możliwość wpisu do Urzędu Pracy w celu 
 ułatwienia znalezienia stanowiska pracy.
 Benefity za rejestrację w systemie: 
-  • Zasiłek 200 zł na osobę dorosłą +150zł na każde dziecko,
-  • Darmową komunikację miejska,
-  • Zniżki na domy kultury
+  1. Zasiłek 200 zł na osobę dorosłą +150zł na każde dziecko,
+  2. Darmową komunikację miejska,
+  3. Zniżki na domy kultury
 Cele:
 Budowa systemu usprawniającego przyjmowania uchodźców.
 Zakres:
-  • Przyjmowanie uchodźców
-  • Zapewnienie im pomocy materialnej
-  • Możliwość znalezienia stanowiska pracy
-  • Zapis danych osobowych uchodźcy do bazy
-  • Przydzielenie unikalnego identyfikatora
+  1. Przyjmowanie uchodźców
+  2. Zapewnienie im pomocy materialnej
+  3. Możliwość znalezienia stanowiska pracy
+  4. Zapis danych osobowych uchodźcy do bazy
+  5. Przydzielenie unikalnego identyfikatora
 Korzyści:
   a) Materialne
-   • Redukcja kosztów administracyjnych
-   • Redukcja kosztów biurowych
-   • Redukcja kosztów logistycznych
-   • Zwiększenie liczby legalnych pracowników(podatki)
+   1. Redukcja kosztów administracyjnych
+   2. Redukcja kosztów biurowych
+   3. Redukcja kosztów logistycznych
+   4. Zwiększenie liczby legalnych pracowników(podatki)
   b) Niematerialne
-   • Łatwy dostęp do wyników raportów i statystyk
-   • Łatwiejsza komunikacja między urzędami
-   • Podniesienie komfortu życia imigrantów
-   • lepszy odbiór Polski na arenie międzynarodowej
+   1. Łatwy dostęp do wyników raportów i statystyk
+   2. Łatwiejsza komunikacja między urzędami
+   3. Podniesienie komfortu życia imigrantów
+   4. lepszy odbiór Polski na arenie międzynarodowej
 
 
 
