@@ -28,11 +28,9 @@ Zakres:
   3. Możliwość znalezienia stanowiska pracy
   4. Zapis danych osobowych uchodźcy do bazy
   5. Przydzielenie unikalnego identyfikatora
-
 Korzyści:
 
   a) Materialne
-  
    1. Redukcja kosztów administracyjnych
    2. Redukcja kosztów biurowych
    3. Redukcja kosztów logistycznych
