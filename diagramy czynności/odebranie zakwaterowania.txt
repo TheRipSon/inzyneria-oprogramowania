@@ -1,0 +1,51 @@
+opis przypadku użycia "odebranie zakwaterowania":
+
+1. uczestniczący aktorzy
+
+	• Administrator
+
+2. podstawowy ciąg zdarzeń
+	• Admin dostaje powiadomienie o możliwości odebrania zakwaterowania
+	• System sam uzupełnia formularz
+	• System validuie dane
+	• Jeśli formularz jest nieporpawny admin go poprawia
+	• Administrator wysła informacje do uchodźcy
+	• Administrator czeka 7 dni / zajmując się innymi czynościami
+	• Administrator	wysyła pracownika na wywiad
+	• Jeżeli mieszkanie jest zamieszkane następuje eksmisja
+	• Następuje wycena szkód oraz wykonanie planu remontu
+	• Jednoczesny:
+		1. Remont mieszkanie
+		2. Poinformowanie odpowiednich służb o sprawowaniu uchodzców
+		3. Uaktualnienie danych od nośnie uchodzców
+	• Uaktualnienie danych od nośnie mieszkania
+	
+3. alternatywne ciągi zdarzeń:
+	/1/
+	• Admin sam rozpoczyna procedure odebrania zakwaterowania
+	• Uzupełnia dane formularza
+	• System validuie dane
+	• Jeśli formularz jest nieporpawny admin go poprawia
+	• Administrator wysła informacje do uchodźcy
+	• Administrator czeka 7 dni / zajmując się innymi czynościami
+	• Administrator	wysyła pracownika na wywiad
+	• Jeżeli mieszkanie jest zamieszkane następuje eksmisja
+	• Następuje wycena szkód oraz wykonanie planu remontu
+	• Jednoczesny:
+		1. Remont mieszkanie
+		2. Poinformowanie odpowiednich służb o sprawowaniu uchodzców
+		3. Uaktualnienie danych od nośnie uchodzców
+	• Uaktualnienie danych od nośnie mieszkania
+	/2/
+    • Administrator po otrzymaniu informacji zwrotnej od uchodzcy podejmuje decyzje o odraczeniu postępowania, anulowaniu , lub kontynuacji
+
+
+4. zależności czasowe
+	• częstotliwość wykonania: ~50-100 razy dziennie
+	• przewidywane spiętrzenia: rok(kilka lat) po okresie imigracyjnym
+	• typowy czas realizacji: ~5 min. wypełniania + 30 dni(remont + oczekiwanie)
+	• maksymalny czas realizacji: nieokreślony
+
+
+5. wartości uzyskiwane przez aktorów po zakończeniu przypadku użycia
+	• Komunikat o przywróceniu mieszkania jako dostępne
